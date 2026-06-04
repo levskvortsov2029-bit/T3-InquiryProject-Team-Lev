@@ -6,4 +6,14 @@
     
 }
 
-.
+.taki-img{
+    width:20wh;
+    height:20vh;
+    align-items: center;
+}
+
+.text-img{
+    width:6wh;
+    height: 6vh;
+    color:purple;
+}
