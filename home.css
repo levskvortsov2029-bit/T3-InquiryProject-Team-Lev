@@ -1,15 +1,116 @@
-.nav-bar{
-    
-}
 
-.main-content{
+ #about-us-1 {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+ }
 
-}
 
-.buy{
+ #about-us-2 {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+ }
 
-}
 
-.contact{
+ #order-question {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+ }
 
-}
+
+ #food-1 {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+ }
+
+
+#food-2 {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+ }
+
+
+ #food-3 {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+ }
+
+
+ body {
+            background-color: white;
+            color: #333;
+        }
+
+
+        header {
+            background-color: #b33f00;
+            color: white;
+            padding: 1px;
+            text-align: center;
+            padding: 1px;
+            width: 98vw;
+            height:17vh;
+        }
+         
+        nav {
+            background-color: #ff6600;
+            display: flex;
+            justify-content: center;
+            padding: 1px;
+            width: 98vw;
+            height:4vh;
+        }
+       
+
+
+       nav a {
+            color: white;
+            margin: 5px;
+            font-weight: bold;
+
+
+        }
+
+
+        .welcome-section {
+            height: 20vh;
+            width: 98vw;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 40px;
+            font-weight: bold;
+            text-shadow: 2px 2px 7px rgba(0,0,0,0.6);
+        }
+     
+        footer {
+            background-color: #b33f00;
+            color: white;
+            text-align: center;
+            padding: 1px;
+            margin: 1px;
+            width:98vw;
+            height:14vh;
+        }
+
+
+   
+       
+        body {
+            background-color: rgb(235, 232, 217);
+        }
+
+
+
